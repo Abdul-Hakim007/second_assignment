@@ -1,0 +1,15 @@
+img{
+   margin-left: 480px;
+}
+button{
+    margin-left: 650px;
+   background-color: orange;
+   border: none;
+   padding: 5px 10px 5px 10px;
+   border-radius: 5px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image:url(../images/sleep.jpg);
+  text-align: center;
+  color: white;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+button{
+    background-color: orange;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
